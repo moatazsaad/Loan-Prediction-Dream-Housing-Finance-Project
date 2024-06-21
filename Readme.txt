@@ -23,4 +23,4 @@ The Loan Approval Predictor project aims to automate the loan eligibility proces
 
 6- Usage
 You can interact with the deployed application on the cloud by visiting the following link:
-(https://loanclassificationproject-4i9iud7xgaynt6mzs2rw7p.streamlit.app/)
+(https://loan-prediction-dream-housing-finance-project-j6t4w42ayehercbk.streamlit.app/)
